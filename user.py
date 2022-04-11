@@ -1,3 +1,4 @@
+###Extract user reports from Student Information System and Load to AWS S3
 #IMPORT LIBRARIES
 import time
 import json
